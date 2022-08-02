@@ -1,0 +1,41 @@
+.bola {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000000;
+    background-color: #FFFF00;
+    display: block;
+    margin: 0px auto;
+}
+
+.ball{
+    border-radius: 50%;
+    height: 19px;
+    width: 19px;
+    border: 1px solid #000000;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.centertable{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background{
+    background-image: url(imagens/background.jpg)
+}
+
+p {
+    color: black;
+}
+
+.apam{
+    text-align: center;
+    color:#5A464C;
+}
+
+.link{
+    align-items: center;
+    justify-content: center;
+}

@@ -17,6 +17,15 @@
     margin-bottom: 20px;
 }
 
+.ballmongol{
+    border-radius: 50%;
+    height: 19px;
+    width: 19px;
+    display: inline-block;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 .centertable{
     margin-left: auto;
     margin-right: auto;
